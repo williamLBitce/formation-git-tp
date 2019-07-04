@@ -4,3 +4,4 @@ application unique d'aspiration d'informations sur les sites de transports publi
 Les premières idées du projet sont présentes et vont évoluer au fur et à mesure. Le projet va aussi
 devoir débuter sous peu. Un système de versioning va devenir plus qu'important.
 L'objectif principal est de mettre en place et gérer les premiers événements de ce dépôt Git.
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
